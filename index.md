@@ -2,7 +2,7 @@
 
 - Name: Mr. Tianyi Li
 - Email: tianyi.li(at)polytechnique.edu
-- CV: [English resume](https://www.dropbox.com/s/hqkcyvtbn9jddr0/cven_tianyili.pdf?dl=0); [CV en français](https://www.dropbox.com/s/w2q717n2dibkvd6/cvfr_tianyili.pdf)
+- CV: [English resume](https://www.dropbox.com/s/hqkcyvtbn9jddr0/cven_tianyili.pdf); [CV en français](https://www.dropbox.com/s/w2q717n2dibkvd6/cvfr_tianyili.pdf)
 - LinkedIn profile: [https://www.linkedin.com/in/tianyikillua](https://www.linkedin.com/in/tianyikillua)
 
 ## PhD work

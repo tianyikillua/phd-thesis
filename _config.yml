@@ -1,0 +1,8 @@
+title: PhD thesis information
+description: Thursday, October 6, 2016, at 14:00 CEST, at the ENSTA ParisTech, Amphi R111
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

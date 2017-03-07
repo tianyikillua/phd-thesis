@@ -2,7 +2,7 @@
 
 - Name: Mr. Tianyi Li
 - Email: tianyi.li(at)polytechnique.edu
-- CV: [English resume](https://dl.dropboxusercontent.com/u/4509593/CV/cven_tianyili.pdf); [CV en français](https://dl.dropboxusercontent.com/u/4509593/CV/cvfr_tianyili.pdf)
+- CV: [English resume](https://www.dropbox.com/s/hqkcyvtbn9jddr0/cven_tianyili.pdf?dl=0); [CV en français](https://www.dropbox.com/s/w2q717n2dibkvd6/cvfr_tianyili.pdf)
 - LinkedIn profile: [https://www.linkedin.com/in/tianyikillua](https://www.linkedin.com/in/tianyikillua)
 
 ## PhD work
@@ -12,9 +12,8 @@
 
 ## Related documents
 
-- Author-generated thesis PDF file: [here](https://dl.dropboxusercontent.com/u/4509593/Thesis/Thesis-Li.pdf)
-- Bitbucket repository: [https://bitbucket.org/litianyi/thesis-manuscript](https://bitbucket.org/litianyi/thesis-manuscript)
-- Presentation PDF file: [here](https://dl.dropboxusercontent.com/u/4509593/Thesis/Soutenance.pdf): for videos, open the file with Adobe Reader and make sure that Flash Player is installed. Verified under Windows and Mac.
+- Bitbucket repository where you can also find an author-generated PDF file: [https://bitbucket.org/litianyi/thesis-manuscript](https://bitbucket.org/litianyi/thesis-manuscript)
+- Presentation PDF file: [here](https://www.dropbox.com/s/j5kpl3f0efo2g45/soutenance.pdf): for videos, open the file with Adobe Reader and make sure that Flash Player is installed. Verified under Windows and Mac.
 
 ## Public defense
 
